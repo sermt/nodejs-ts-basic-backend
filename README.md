@@ -22,7 +22,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial.git](https://github.com/sermt/nodejs-ts-basic-backend.git
+git https://github.com/sermt/nodejs-ts-basic-backend.git
 ```
 
 ### Install packages
